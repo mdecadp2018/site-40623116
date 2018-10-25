@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌40623116 - gain</title><link href="https://mdecadp2018.github.io/site-40623116/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623116/blog/feeds/gain.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623116/blog/</id><updated>2018-09-14T11:00:00+08:00</updated><entry><title>第一週心得</title><link href="https://mdecadp2018.github.io/site-40623116/blog/40623116-w1-gain.html" rel="alternate"></link><published>2018-09-14T11:00:00+08:00</published><updated>2018-09-14T11:00:00+08:00</updated><author><name>40623116</name></author><id>tag:mdecadp2018.github.io,2018-09-14:/site-40623116/blog/40623116-w1-gain.html</id><summary type="html">&lt;p&gt;電腦輔助設計實習第一堂課&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;電腦輔助設計實習第一堂課&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌40623116 - gain</title><link href="https://mdecadp2018.github.io/site-40623116/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623116/blog/feeds/gain.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623116/blog/</id><updated>2018-09-14T11:00:00+08:00</updated><entry><title>第一週心得</title><link href="https://mdecadp2018.github.io/site-40623116/blog/40623116-w1-gain.html" rel="alternate"></link><published>2018-09-14T11:00:00+08:00</published><updated>2018-09-14T11:00:00+08:00</updated><author><name>40623116</name></author><id>tag:mdecadp2018.github.io,2018-09-14:/site-40623116/blog/40623116-w1-gain.html</id><summary type="html">&lt;p&gt;電腦輔助設計實習第一堂&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;電腦輔助設計實習第一堂&lt;/p&gt;
 
 
 &lt;h2&gt;上課內容&lt;/h2&gt;
@@ -10,7 +10,6 @@
 &lt;p&gt;可攜套件使用&lt;a href="http://mde.tw/cadp2018/content/index.html"&gt;p37&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;這學期上課使用Github被微軟買下後釋出的新功能&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://classroom.github.com"&gt;Github Classroom&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;把很多原本要手動改動的東西都利用程式方法解決了，所以少了很多麻煩的步驟，不用再各自clone，老師也更方便管理作業內容。&lt;/p&gt;
 &lt;h2&gt;上課影片&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=sD9slKyFNao"&gt;如何管理個人的期中作業網站內容&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=ax2ZuPm3YXc"&gt;如何利用 p37 中的 git 建立個人的 Github Pages 網站&lt;/a&gt;&lt;/p&gt;
