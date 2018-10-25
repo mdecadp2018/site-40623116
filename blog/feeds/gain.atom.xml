@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌40623116 - gain</title><link href="https://mdecadp2018.github.io/site-40623116/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623116/blog/feeds/gain.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623116/blog/</id><updated>2018-09-14T11:00:00+08:00</updated><entry><title>第一週心得</title><link href="https://mdecadp2018.github.io/site-40623116/blog/40623116-w1-gain.html" rel="alternate"></link><published>2018-09-14T11:00:00+08:00</published><updated>2018-09-14T11:00:00+08:00</updated><author><name>40623116</name></author><id>tag:mdecadp2018.github.io,2018-09-14:/site-40623116/blog/40623116-w1-gain.html</id><summary type="html">&lt;p&gt;電腦輔助設計實習第一堂課&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;電腦輔助設計實習第一堂課&lt;/p&gt;
+
+
+&lt;h2&gt;上課內容&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://github.com/mdecourse/cadp2018/issues"&gt;課程倉儲&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://mde.tw/cadp2018/content/index.html"&gt;課程網站&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://coggle.it/diagram/WzQ9tjCAbqepqWPI/t/%E9%9B%BB%E8%85%A6%E8%BC%94%E5%8A%A9%E8%A8%AD%E8%A8%88%E5%AF%A6%E7%BF%92/7ff3697b0db297209138e7f4ea4d3966eff611b8d3d228fc6aeda2fb112eaf50"&gt;課程規劃圖&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;可攜套件使用&lt;a href="http://mde.tw/cadp2018/content/index.html"&gt;p37&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;這學期上課使用Github被微軟買下後釋出的新功能&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://classroom.github.com"&gt;Github Classroom&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;把很多原本要手動改動的東西都利用程式方法解決了，所以少了很多麻煩的步驟，不用再各自clone，老師也更方便管理作業內容。&lt;/p&gt;
+&lt;h2&gt;上課影片&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=sD9slKyFNao"&gt;如何管理個人的期中作業網站內容&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=ax2ZuPm3YXc"&gt;如何利用 p37 中的 git 建立個人的 Github Pages 網站&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=3SR7vom0YA8"&gt;如何管理期中作業倉儲中的網際投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;心得&lt;/h2&gt;</content><category term="gain"></category></entry></feed>
