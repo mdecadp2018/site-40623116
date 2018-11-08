@@ -39,18 +39,6 @@
 <v t="leo.20181108225145.1" a="E"><vh>w5</vh>
 <v t="leo.20181108225145.2"><vh>心得</vh></v>
 </v>
-<v t="leo.20181108225147.1" a="E"><vh>w6</vh>
-<v t="leo.20181108225147.2"><vh>心得</vh></v>
-</v>
-<v t="leo.20181108225150.1" a="E"><vh>w7</vh>
-<v t="leo.20181108225150.2"><vh>心得</vh></v>
-</v>
-<v t="leo.20181108225152.1" a="E"><vh>w8</vh>
-<v t="leo.20181108225152.2"><vh>心得</vh></v>
-</v>
-<v t="leo.20181108225154.1" a="E"><vh>w9</vh>
-<v t="leo.20181108225154.2"><vh>心得</vh></v>
-</v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -372,8 +360,7 @@ make.start()
 
 https://classroom.github.com/a/fGqXU9kO 領取個人的期中作業
 
-期中成績以每週放入此個人網站之操作影片、CMSimfly、reveal 簡報、pelican 網誌與倉儲歷程
-
+&lt;iframe src="https://youtu.be/fJ3z41g_c0I" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 <t tx="leo.20181108225139.1">&lt;section data-markdown&gt;
@@ -387,7 +374,7 @@ https://classroom.github.com/a/fGqXU9kO 領取個人的期中作業
 </t>
 <t tx="leo.20181108225139.2">## week2
 
-
+&lt;iframe src="https://youtu.be/PpABVLspYaY" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 <t tx="leo.20181108225141.1">&lt;section data-markdown&gt;
@@ -401,7 +388,7 @@ https://classroom.github.com/a/fGqXU9kO 領取個人的期中作業
 </t>
 <t tx="leo.20181108225141.2">## week3
 
-
+&lt;iframe src="https://youtu.be/G4sMS_UY16k" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 <t tx="leo.20181108225143.1">&lt;section data-markdown&gt;
@@ -415,7 +402,7 @@ https://classroom.github.com/a/fGqXU9kO 領取個人的期中作業
 </t>
 <t tx="leo.20181108225143.2">## week4
 
-
+&lt;iframe src="https://youtu.be/1W1_QMEgrk4" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20181108225145.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -428,66 +415,7 @@ https://classroom.github.com/a/fGqXU9kO 領取個人的期中作業
 </t>
 <t tx="leo.20181108225145.2">## week5
 
-
-
-
-</t>
-<t tx="leo.20181108225147.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181108225147.2">## week6
-
-
-
-
-</t>
-<t tx="leo.20181108225150.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181108225150.2">## week7
-
-
-
-</t>
-<t tx="leo.20181108225152.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181108225152.2">## week8
-
-
-
-
-</t>
-<t tx="leo.20181108225154.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181108225154.2">## week9
-
-
+&lt;iframe src="https://youtu.be/BgJLYg7ZFvc" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 
 </t>
