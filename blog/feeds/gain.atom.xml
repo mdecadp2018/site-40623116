@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌40623116 - gain</title><link href="https://mdecadp2018.github.io/site-40623116/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623116/blog/feeds/gain.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623116/blog/</id><updated>2018-11-02T11:00:00+08:00</updated><entry><title>第八週心得</title><link href="https://mdecadp2018.github.io/site-40623116/blog/40623116-w8-gain.html" rel="alternate"></link><published>2018-11-02T11:00:00+08:00</published><updated>2018-11-02T11:00:00+08:00</updated><author><name>40623116</name></author><id>tag:mdecadp2018.github.io,2018-11-02:/site-40623116/blog/40623116-w8-gain.html</id><summary type="html">&lt;p&gt;機電資整合設計專案流程所需的相關套件運用與技術&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;機電資整合設計專案流程所需的相關套件運用與技術&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌40623116 - gain</title><link href="https://mdecadp2018.github.io/site-40623116/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623116/blog/feeds/gain.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623116/blog/</id><updated>2018-11-02T11:00:00+08:00</updated><entry><title>第八週心得</title><link href="https://mdecadp2018.github.io/site-40623116/blog/40623116-w8-gain.html" rel="alternate"></link><published>2018-11-02T11:00:00+08:00</published><updated>2018-11-02T11:00:00+08:00</updated><author><name>40623116</name></author><id>tag:mdecadp2018.github.io,2018-11-02:/site-40623116/blog/40623116-w8-gain.html</id><summary type="html">&lt;p&gt;電腦輔助設計實習第八週&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;電腦輔助設計實習第八週&lt;/p&gt;
 
 
 &lt;h2&gt;上課內容&lt;/h2&gt;
@@ -9,8 +9,8 @@
 &lt;h2&gt;上課影片&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://youtu.be/yAzfQm2gBEQ"&gt;說明機電資整合設計專案流程所需的相關套件運用與技術&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;上課心得&lt;/h2&gt;
-&lt;p&gt;今天上課講解了機電資整合與期中後的協同作業，繪圖可能只佔了3成，畫好後要如何模擬分析，假如是用不同CAD軟體繪製，如何轉檔。之後會遇到的問題很多，希望我有能力能自己處理。&lt;/p&gt;</content><category term="gain"></category></entry><entry><title>第七週心得</title><link href="https://mdecadp2018.github.io/site-40623116/blog/40623116-w7-gain.html" rel="alternate"></link><published>2018-10-25T11:00:00+08:00</published><updated>2018-10-25T11:00:00+08:00</updated><author><name>40623116</name></author><id>tag:mdecadp2018.github.io,2018-10-25:/site-40623116/blog/40623116-w7-gain.html</id><summary type="html">&lt;p&gt;github無法使用時的備用方案&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;github無法使用時的備用方案&lt;/p&gt;
+&lt;p&gt;今天上課講解了機電資整合與期中後的協同作業，繪圖可能只佔了3成，畫好後要如何模擬分析，假如是用不同CAD軟體繪製，如何轉檔。之後會遇到的問題很多，希望我有能力能自己處理。&lt;/p&gt;</content><category term="gain"></category></entry><entry><title>第七週心得</title><link href="https://mdecadp2018.github.io/site-40623116/blog/40623116-w7-gain.html" rel="alternate"></link><published>2018-10-25T11:00:00+08:00</published><updated>2018-10-25T11:00:00+08:00</updated><author><name>40623116</name></author><id>tag:mdecadp2018.github.io,2018-10-25:/site-40623116/blog/40623116-w7-gain.html</id><summary type="html">&lt;p&gt;電腦輔助設計實習第七週&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;電腦輔助設計實習第七週&lt;/p&gt;
 
 
 &lt;h2&gt;上課內容&lt;/h2&gt;
@@ -31,76 +31,50 @@
 &lt;p&gt;今天上課，聽說Github出了問題，所以老師告訴了他們備案，把倉儲分別同步到&lt;a href="https://about.gitlab.com/pricing/#gitlab-com"&gt;Gitlab&lt;/a&gt;
 &lt;a href="https://bitbucket.org/product/pricing"&gt;Bitbucket&lt;/a&gt;
 與自建的&lt;a href="https://about.gitlab.com/pricing/#gitlab-com"&gt;Fossil SCM&lt;/a&gt;
-，多存一份多一份保障，萬一又故障才有替代方案。&lt;/p&gt;</content><category term="gain"></category></entry><entry><title>第六週心得</title><link href="https://mdecadp2018.github.io/site-40623116/blog/40623116-w6-gain.html" rel="alternate"></link><published>2018-10-18T11:00:00+08:00</published><updated>2018-10-18T11:00:00+08:00</updated><author><name>40623116</name></author><id>tag:mdecadp2018.github.io,2018-10-18:/site-40623116/blog/40623116-w6-gain.html</id><summary type="html">&lt;p&gt;如何更新CMSimfly&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;如何更新CMSimfly&lt;/p&gt;
+，多存一份多一份保障，萬一又故障才有替代方案。&lt;/p&gt;</content><category term="gain"></category></entry><entry><title>第六週心得</title><link href="https://mdecadp2018.github.io/site-40623116/blog/40623116-w6-gain.html" rel="alternate"></link><published>2018-10-18T11:00:00+08:00</published><updated>2018-10-18T11:00:00+08:00</updated><author><name>40623116</name></author><id>tag:mdecadp2018.github.io,2018-10-18:/site-40623116/blog/40623116-w6-gain.html</id><summary type="html">&lt;p&gt;電腦輔助設計實習第六週&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;電腦輔助設計實習第六週&lt;/p&gt;
 
 
 &lt;h2&gt;上課內容&lt;/h2&gt;
 &lt;p&gt;更新CMSimfly&lt;/p&gt;
-&lt;h2&gt;上課影片&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=i0zDhlxAJmk"&gt;有關人事時地物等關鍵內容的架構安排&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=mH_tW3erBqs"&gt;如何升級最新的 CMSimfly&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=6ULAecjorvU"&gt;說明管理內容流程&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;心得&lt;/h2&gt;
-&lt;p&gt;今天上課時我在處理個人Blog的問題，最後發現原因是我打開pelican.leo，把@edit 20180718.md直接改成別的日期並存檔轉檔，造成個人Blog檔案產生錯誤刪除了所有檔案，我又沒有檢查近端，就直接推上去，為了解決這問題我利用了github的版次功能回推尋找原因，最後幸好有處理好。&lt;/p&gt;</content><category term="gain"></category></entry><entry><title>第五週心得</title><link href="https://mdecadp2018.github.io/site-40623116/blog/40623116-w5-gain.html" rel="alternate"></link><published>2018-10-11T11:00:00+08:00</published><updated>2018-10-11T11:00:00+08:00</updated><author><name>40623116</name></author><id>tag:mdecadp2018.github.io,2018-10-11:/site-40623116/blog/40623116-w5-gain.html</id><summary type="html">&lt;p&gt;Onshape 設計繪圖&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;Onshape 設計繪圖&lt;/p&gt;
+&lt;p&gt;今天上課時我在處理個人Blog的問題，最後發現原因是我打開pelican.leo，把@edit 20180718.md直接改成別的日期並存檔轉檔，造成個人Blog檔案產生錯誤刪除了所有檔案，我又沒有檢查近端，就直接推上去，為了解決這問題我利用了github的版次功能回推尋找原因，最後幸好有處理好。&lt;/p&gt;</content><category term="gain"></category></entry><entry><title>第五週心得</title><link href="https://mdecadp2018.github.io/site-40623116/blog/40623116-w5-gain.html" rel="alternate"></link><published>2018-10-11T11:00:00+08:00</published><updated>2018-10-11T11:00:00+08:00</updated><author><name>40623116</name></author><id>tag:mdecadp2018.github.io,2018-10-11:/site-40623116/blog/40623116-w5-gain.html</id><summary type="html">&lt;p&gt;電腦輔助設計實習第五週&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;電腦輔助設計實習第五週&lt;/p&gt;
 
 
 &lt;h2&gt;上課內容&lt;/h2&gt;
-&lt;p&gt;Onshape 的設計繪圖說明與 Variable 定義簡化繪圖流程&lt;/p&gt;
-&lt;h2&gt;上課影片&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=0SKgCf2zJV8"&gt;onshape 設計繪圖說明&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=0SKgCf2zJV8&amp;amp;t=345s"&gt;如何利用 variable 定義簡化繪圖流程&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=GE48pZWK8vI"&gt;從 Onshapeweek1 課程到 Onshapeweek2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Onshape 的參數化&lt;/p&gt;
 &lt;h2&gt;心得&lt;/h2&gt;
-&lt;p&gt;Onshape的Variable功能太方便了，要做設計變更時平常可能要改兩小時的圖，從零件圖改到合成圖，現在只需要五秒鐘，在配合Onshape的版次功能，真的太強大了。&lt;/p&gt;</content><category term="gain"></category></entry><entry><title>第四週心得</title><link href="https://mdecadp2018.github.io/site-40623116/blog/40623116-w4-gain.html" rel="alternate"></link><published>2018-10-04T11:00:00+08:00</published><updated>2018-10-04T11:00:00+08:00</updated><author><name>40623116</name></author><id>tag:mdecadp2018.github.io,2018-10-04:/site-40623116/blog/40623116-w4-gain.html</id><summary type="html">&lt;p&gt;Onshape 課程使用說明&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;Onshape 課程使用說明&lt;/p&gt;
+&lt;p&gt;知道參數化這個功能後，更加的方便了，只要更改一個尺寸，就能將其他的零件一起做變動，以前要一個一個做修改，總覺得超級麻煩的，學習到這個功能真的是太方便了。&lt;/p&gt;</content><category term="gain"></category></entry><entry><title>第四週心得</title><link href="https://mdecadp2018.github.io/site-40623116/blog/40623116-w4-gain.html" rel="alternate"></link><published>2018-10-04T11:00:00+08:00</published><updated>2018-10-04T11:00:00+08:00</updated><author><name>40623116</name></author><id>tag:mdecadp2018.github.io,2018-10-04:/site-40623116/blog/40623116-w4-gain.html</id><summary type="html">&lt;p&gt;電腦輔助設計實習第四週&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;電腦輔助設計實習第四週&lt;/p&gt;
 
 
 &lt;h2&gt;上課內容&lt;/h2&gt;
 &lt;p&gt;Onshape 課程使用說明與英英字典的使用&lt;/p&gt;
-&lt;p&gt;解決Cmsimfly 的錯誤&lt;/p&gt;
-&lt;h2&gt;上課影片&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=UdYcuRKS6o4"&gt;Onshape week1 課程使用說明&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=sGfj3542Vvs"&gt;CMSimfly 開發過程改版與除錯流程&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;升級Flask.app&lt;/p&gt;
 &lt;h2&gt;心得&lt;/h2&gt;
-&lt;p&gt;近端今天出現了問題，本來不知道該怎麼辦，幸好老師有影片能解決這個問題，升級flask.app就能解決了。&lt;/p&gt;</content><category term="gain"></category></entry><entry><title>第三週心得</title><link href="https://mdecadp2018.github.io/site-40623116/blog/40623116-w3-gain.html" rel="alternate"></link><published>2018-09-27T11:00:00+08:00</published><updated>2018-09-27T11:00:00+08:00</updated><author><name>40623116</name></author><id>tag:mdecadp2018.github.io,2018-09-27:/site-40623116/blog/40623116-w3-gain.html</id><summary type="html">&lt;p&gt;git 功能&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;git 功能&lt;/p&gt;
+&lt;p&gt;近端今天出現了問題，本來不知道該怎麼辦，幸好老師有影片能解決這個問題，升級flask.app就能解決了。&lt;/p&gt;</content><category term="gain"></category></entry><entry><title>第三週心得</title><link href="https://mdecadp2018.github.io/site-40623116/blog/40623116-w3-gain.html" rel="alternate"></link><published>2018-09-27T11:00:00+08:00</published><updated>2018-09-27T11:00:00+08:00</updated><author><name>40623116</name></author><id>tag:mdecadp2018.github.io,2018-09-27:/site-40623116/blog/40623116-w3-gain.html</id><summary type="html">&lt;p&gt;電腦輔助設計實習第三週&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;電腦輔助設計實習第三週&lt;/p&gt;
 
 
 &lt;h2&gt;上課內容&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://git-scm.com/"&gt;git&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://github.com/mdecourse/cp2018/issues/10"&gt;Git 的指令練習&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://mde.tw/cadp2018/content/Git.html"&gt;git 基本功能&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;學習使用&lt;a href="https://www.onshape.com/"&gt;Onshape&lt;/a&gt; 進行繪圖練習&lt;/p&gt;
-&lt;h2&gt;上課影片&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=158Ir6Mni60"&gt;git 基本操作練習&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;git 語法&lt;/p&gt;
+&lt;p&gt;onshape練習&lt;/p&gt;
 &lt;h2&gt;心得&lt;/h2&gt;
-&lt;p&gt;認識到很多git的功能，看來還有很多我不知道的，需要趕緊多加練習才行。&lt;/p&gt;</content><category term="gain"></category></entry><entry><title>第二週心得</title><link href="https://mdecadp2018.github.io/site-40623116/blog/40623116-w2-gain.html" rel="alternate"></link><published>2018-09-20T11:00:00+08:00</published><updated>2018-09-20T11:00:00+08:00</updated><author><name>40623116</name></author><id>tag:mdecadp2018.github.io,2018-09-20:/site-40623116/blog/40623116-w2-gain.html</id><summary type="html">&lt;p&gt;&lt;a href="https://www.onshape.com/"&gt;Onshape&lt;/a&gt;&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;&lt;a href="https://www.onshape.com/"&gt;Onshape&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;認識到很多git的功能，看來還有很多我不知道的，需要趕緊多加練習才行。&lt;/p&gt;</content><category term="gain"></category></entry><entry><title>第二週心得</title><link href="https://mdecadp2018.github.io/site-40623116/blog/40623116-w2-gain.html" rel="alternate"></link><published>2018-09-20T11:00:00+08:00</published><updated>2018-09-20T11:00:00+08:00</updated><author><name>40623116</name></author><id>tag:mdecadp2018.github.io,2018-09-20:/site-40623116/blog/40623116-w2-gain.html</id><summary type="html">&lt;p&gt;電腦輔助設計實習第二週&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;電腦輔助設計實習第二週&lt;/p&gt;
 
 
 &lt;h2&gt;上課內容&lt;/h2&gt;
-&lt;p&gt;電腦輔助設計實習課程的&lt;a href="https://github.com/mdecadp2018/"&gt;Github Classroom&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;學習使用&lt;a href="https://www.onshape.com/"&gt;Onshape&lt;/a&gt; 進行繪圖練習&lt;/p&gt;
-&lt;h2&gt;上課影片&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=hEkMv2KqixY"&gt;說明如何以 ShareX 取圖, 如何管理 CMSimfly 作業倉儲.&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=PNfuu95a3ns"&gt;說明如何管理網際投影片與網誌&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;修改課程名稱"mdecadp2018"與 onshape的基本練習&lt;/p&gt;
 &lt;h2&gt;心得&lt;/h2&gt;
-&lt;p&gt;上課說明了如何使用 Share X 取圖，如何使用動態網站編輯再轉為靜態網站，還教了如何把個人網站上的圖片加上外框來更好的進行表達，連其中要交的網際投影片跟網誌也說明完了，所以大致上都說明完畢了。&lt;/p&gt;</content><category term="gain"></category></entry><entry><title>第一週心得</title><link href="https://mdecadp2018.github.io/site-40623116/blog/40623116-w1-gain.html" rel="alternate"></link><published>2018-09-13T11:00:00+08:00</published><updated>2018-09-13T11:00:00+08:00</updated><author><name>40623116</name></author><id>tag:mdecadp2018.github.io,2018-09-13:/site-40623116/blog/40623116-w1-gain.html</id><summary type="html">&lt;p&gt;電腦輔助設計實習&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;電腦輔助設計實習&lt;/p&gt;
+&lt;p&gt;開始接觸onshape後，發覺跟我以前學的Inventor很像，應該可以很快的上手，但很多功能的名字都不一樣，所以熟悉還要花一點時間。&lt;/p&gt;</content><category term="gain"></category></entry><entry><title>第一週心得</title><link href="https://mdecadp2018.github.io/site-40623116/blog/40623116-w1-gain.html" rel="alternate"></link><published>2018-09-13T11:00:00+08:00</published><updated>2018-09-13T11:00:00+08:00</updated><author><name>40623116</name></author><id>tag:mdecadp2018.github.io,2018-09-13:/site-40623116/blog/40623116-w1-gain.html</id><summary type="html">&lt;p&gt;電腦輔助設計實習第一週&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;電腦輔助設計實習第一週&lt;/p&gt;
 
 
 &lt;h2&gt;上課內容&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://github.com/mdecourse/cadp2018/issues"&gt;課程倉儲&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://mde.tw/cadp2018/content/index.html"&gt;課程網站&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://coggle.it/diagram/WzQ9tjCAbqepqWPI/t/%E9%9B%BB%E8%85%A6%E8%BC%94%E5%8A%A9%E8%A8%AD%E8%A8%88%E5%AF%A6%E7%BF%92/7ff3697b0db297209138e7f4ea4d3966eff611b8d3d228fc6aeda2fb112eaf50"&gt;課程規劃圖&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;可攜套件使用&lt;a href="http://mde.tw/cadp2018/content/index.html"&gt;p37&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://classroom.github.com"&gt;Github Classroom&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;上課影片&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=sD9slKyFNao"&gt;如何管理個人的期中作業網站內容&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=ax2ZuPm3YXc"&gt;如何利用 p37 中的 git 建立個人的 Github Pages 網站&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=3SR7vom0YA8"&gt;如何管理期中作業倉儲中的網際投影片&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;心得
-跟上學期學得東西很像，但東西又更加的進步多了很多新的東西，看來能學習的冬戲又更多了。&lt;/p&gt;
+跟上學期學得東西很像，但東西又更加的進步多了很多新的東西，看來能學習的東西又更多了。&lt;/p&gt;
 &lt;hr&gt;</content><category term="gain"></category></entry></feed>
