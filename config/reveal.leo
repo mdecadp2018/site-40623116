@@ -358,7 +358,7 @@ make.start()
 
 https://classroom.github.com/a/fGqXU9kO 領取個人的期中作業
 
-&lt;iframe src="https://youtube/fJ3z41g_c0I" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/fJ3z41g_c0I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 <t tx="leo.20181108225139.1">&lt;section data-markdown&gt;
@@ -372,7 +372,7 @@ https://classroom.github.com/a/fGqXU9kO 領取個人的期中作業
 </t>
 <t tx="leo.20181108225139.2">## week2
 
-&lt;iframe src="https://youtube/PpABVLspYaY" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/PpABVLspYaY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 <t tx="leo.20181108225141.1">&lt;section data-markdown&gt;
@@ -386,7 +386,7 @@ https://classroom.github.com/a/fGqXU9kO 領取個人的期中作業
 </t>
 <t tx="leo.20181108225141.2">## week3
 
-&lt;iframe src="https://youtu.be/G4sMS_UY16k" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/G4sMS_UY16k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 <t tx="leo.20181108225143.1">&lt;section data-markdown&gt;
@@ -400,7 +400,7 @@ https://classroom.github.com/a/fGqXU9kO 領取個人的期中作業
 </t>
 <t tx="leo.20181108225143.2">## week4
 
-&lt;iframe src="https://youtube/1W1_QMEgrk4" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/1W1_QMEgrk4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20181108225145.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -413,7 +413,7 @@ https://classroom.github.com/a/fGqXU9kO 領取個人的期中作業
 </t>
 <t tx="leo.20181108225145.2">## week5
 
-&lt;iframe src="https://youtube/BgJLYg7ZFvc" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/BgJLYg7ZFvc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 
 </t>
