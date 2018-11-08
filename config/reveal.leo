@@ -24,37 +24,37 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181028194055.1" a="E"><vh>week1</vh>
+<v t="leo.20181028194055.1" a="E"><vh>w1</vh>
 <v t="leo.20181028194055.2"><vh>心得</vh></v>
 </v>
-<v t="leo.20181108225139.1" a="E"><vh>week2</vh>
+<v t="leo.20181108225139.1" a="E"><vh>w2</vh>
 <v t="leo.20181108225139.2"><vh>心得</vh></v>
 </v>
-<v t="leo.20181108225141.1" a="E"><vh>week3</vh>
+<v t="leo.20181108225141.1" a="E"><vh>w3</vh>
 <v t="leo.20181108225141.2"><vh>心得</vh></v>
 </v>
-<v t="leo.20181108225143.1" a="E"><vh>week4</vh>
+<v t="leo.20181108225143.1" a="E"><vh>w4</vh>
 <v t="leo.20181108225143.2"><vh>心得</vh></v>
 </v>
-<v t="leo.20181108225145.1" a="E"><vh>week5</vh>
+<v t="leo.20181108225145.1" a="E"><vh>w5</vh>
 <v t="leo.20181108225145.2"><vh>心得</vh></v>
 </v>
-<v t="leo.20181108225147.1" a="E"><vh>week6</vh>
+<v t="leo.20181108225147.1" a="E"><vh>w6</vh>
 <v t="leo.20181108225147.2"><vh>心得</vh></v>
 </v>
-<v t="leo.20181108225150.1" a="E"><vh>week7</vh>
+<v t="leo.20181108225150.1" a="E"><vh>w7</vh>
 <v t="leo.20181108225150.2"><vh>心得</vh></v>
 </v>
-<v t="leo.20181108225152.1" a="E"><vh>week8</vh>
+<v t="leo.20181108225152.1" a="E"><vh>w8</vh>
 <v t="leo.20181108225152.2"><vh>心得</vh></v>
 </v>
-<v t="leo.20181108225154.1" a="E"><vh>week9</vh>
+<v t="leo.20181108225154.1" a="E"><vh>w9</vh>
 <v t="leo.20181108225154.2"><vh>心得</vh></v>
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
+<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -387,13 +387,6 @@ https://classroom.github.com/a/fGqXU9kO 領取個人的期中作業
 </t>
 <t tx="leo.20181108225139.2">## week2
 
-### 虎科大機械設計工程系
-
-&lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
-
-[2018 Fall 分組網誌](./../blog/index.html)
 
 
 </t>
@@ -408,13 +401,6 @@ Created by [KMOLab](http://lab.kmol.info/)
 </t>
 <t tx="leo.20181108225141.2">## week3
 
-### 虎科大機械設計工程系
-
-&lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
-
-[2018 Fall 分組網誌](./../blog/index.html)
 
 
 </t>
@@ -429,14 +415,6 @@ Created by [KMOLab](http://lab.kmol.info/)
 </t>
 <t tx="leo.20181108225143.2">## week4
 
-### 虎科大機械設計工程系
-
-&lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
-
-[2018 Fall 分組網誌](./../blog/index.html)
-
 
 </t>
 <t tx="leo.20181108225145.1">&lt;section data-markdown&gt;
@@ -450,13 +428,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 </t>
 <t tx="leo.20181108225145.2">## week5
 
-### 虎科大機械設計工程系
 
-&lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
-
-[2018 Fall 分組網誌](./../blog/index.html)
 
 
 </t>
@@ -471,13 +443,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 </t>
 <t tx="leo.20181108225147.2">## week6
 
-### 虎科大機械設計工程系
 
-&lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
-
-[2018 Fall 分組網誌](./../blog/index.html)
 
 
 </t>
@@ -492,13 +458,6 @@ Created by [KMOLab](http://lab.kmol.info/)
 </t>
 <t tx="leo.20181108225150.2">## week7
 
-### 虎科大機械設計工程系
-
-&lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
-
-[2018 Fall 分組網誌](./../blog/index.html)
 
 
 </t>
@@ -513,13 +472,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 </t>
 <t tx="leo.20181108225152.2">## week8
 
-### 虎科大機械設計工程系
 
-&lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
-
-[2018 Fall 分組網誌](./../blog/index.html)
 
 
 </t>
@@ -534,13 +487,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 </t>
 <t tx="leo.20181108225154.2">## week9
 
-### 虎科大機械設計工程系
 
-&lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
-
-[2018 Fall 分組網誌](./../blog/index.html)
 
 
 </t>
