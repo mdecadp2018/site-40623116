@@ -27,6 +27,30 @@
 <v t="leo.20181028194055.1" a="E"><vh>week1</vh>
 <v t="leo.20181028194055.2"><vh>心得</vh></v>
 </v>
+<v t="leo.20181108225139.1" a="E"><vh>week2</vh>
+<v t="leo.20181108225139.2"><vh>心得</vh></v>
+</v>
+<v t="leo.20181108225141.1" a="E"><vh>week3</vh>
+<v t="leo.20181108225141.2"><vh>心得</vh></v>
+</v>
+<v t="leo.20181108225143.1" a="E"><vh>week4</vh>
+<v t="leo.20181108225143.2"><vh>心得</vh></v>
+</v>
+<v t="leo.20181108225145.1" a="E"><vh>week5</vh>
+<v t="leo.20181108225145.2"><vh>心得</vh></v>
+</v>
+<v t="leo.20181108225147.1" a="E"><vh>week6</vh>
+<v t="leo.20181108225147.2"><vh>心得</vh></v>
+</v>
+<v t="leo.20181108225150.1" a="E"><vh>week7</vh>
+<v t="leo.20181108225150.2"><vh>心得</vh></v>
+</v>
+<v t="leo.20181108225152.1" a="E"><vh>week8</vh>
+<v t="leo.20181108225152.2"><vh>心得</vh></v>
+</v>
+<v t="leo.20181108225154.1" a="E"><vh>week9</vh>
+<v t="leo.20181108225154.2"><vh>心得</vh></v>
+</v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -338,7 +362,177 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181028194055.2">## 心得
+<t tx="leo.20181028194055.2">## week1
+
+### 虎科大機械設計工程系
+
+根據分組協同流程中學員須知準備隨身碟、耳機、麥克風與紙本筆記
+
+所有課程問題, 均在各週的對應 issues 中, 利用 github 以 comment 方式提出
+
+https://classroom.github.com/a/fGqXU9kO 領取個人的期中作業
+
+期中成績以每週放入此個人網站之操作影片、CMSimfly、reveal 簡報、pelican 網誌與倉儲歷程
+
+
+</t>
+<t tx="leo.20181108225139.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108225139.2">## week2
+
+### 虎科大機械設計工程系
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[2018 Fall 分組網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20181108225141.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108225141.2">## week3
+
+### 虎科大機械設計工程系
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[2018 Fall 分組網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20181108225143.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108225143.2">## week4
+
+### 虎科大機械設計工程系
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[2018 Fall 分組網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20181108225145.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108225145.2">## week5
+
+### 虎科大機械設計工程系
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[2018 Fall 分組網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20181108225147.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108225147.2">## week6
+
+### 虎科大機械設計工程系
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[2018 Fall 分組網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20181108225150.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108225150.2">## week7
+
+### 虎科大機械設計工程系
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[2018 Fall 分組網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20181108225152.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108225152.2">## week8
+
+### 虎科大機械設計工程系
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[2018 Fall 分組網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20181108225154.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108225154.2">## week9
 
 ### 虎科大機械設計工程系
 
