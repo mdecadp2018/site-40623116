@@ -356,11 +356,9 @@ make.start()
 
 根據分組協同流程中學員須知準備隨身碟、耳機、麥克風與紙本筆記
 
-所有課程問題, 均在各週的對應 issues 中, 利用 github 以 comment 方式提出
-
 https://classroom.github.com/a/fGqXU9kO 領取個人的期中作業
 
-&lt;iframe src="https://youtu.be/fJ3z41g_c0I" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://youtube/fJ3z41g_c0I" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 <t tx="leo.20181108225139.1">&lt;section data-markdown&gt;
@@ -374,7 +372,7 @@ https://classroom.github.com/a/fGqXU9kO 領取個人的期中作業
 </t>
 <t tx="leo.20181108225139.2">## week2
 
-&lt;iframe src="https://youtu.be/PpABVLspYaY" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://youtube/PpABVLspYaY" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 <t tx="leo.20181108225141.1">&lt;section data-markdown&gt;
@@ -402,7 +400,7 @@ https://classroom.github.com/a/fGqXU9kO 領取個人的期中作業
 </t>
 <t tx="leo.20181108225143.2">## week4
 
-&lt;iframe src="https://youtu.be/1W1_QMEgrk4" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://youtube/1W1_QMEgrk4" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20181108225145.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -415,7 +413,7 @@ https://classroom.github.com/a/fGqXU9kO 領取個人的期中作業
 </t>
 <t tx="leo.20181108225145.2">## week5
 
-&lt;iframe src="https://youtu.be/BgJLYg7ZFvc" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://youtube/BgJLYg7ZFvc" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 
 </t>
