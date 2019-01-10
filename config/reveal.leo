@@ -24,20 +24,38 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181028194055.1" a="E"><vh>w1</vh>
+<v t="leo.20181028194055.1"><vh>w1</vh>
 <v t="leo.20181028194055.2"><vh>心得</vh></v>
 </v>
-<v t="leo.20181108225139.1" a="E"><vh>w2</vh>
+<v t="leo.20181108225139.1"><vh>w2</vh>
 <v t="leo.20181108225139.2"><vh>心得</vh></v>
 </v>
-<v t="leo.20181108225141.1" a="E"><vh>w3</vh>
+<v t="leo.20181108225141.1"><vh>w3</vh>
 <v t="leo.20181108225141.2"><vh>心得</vh></v>
 </v>
-<v t="leo.20181108225143.1" a="E"><vh>w4</vh>
+<v t="leo.20181108225143.1"><vh>w4</vh>
 <v t="leo.20181108225143.2"><vh>心得</vh></v>
 </v>
-<v t="leo.20181108225145.1" a="E"><vh>w5</vh>
+<v t="leo.20181108225145.1"><vh>w5</vh>
 <v t="leo.20181108225145.2"><vh>心得</vh></v>
+</v>
+<v t="leo.20190111041938.1"><vh>期中前</vh>
+<v t="leo.20190111041938.2"><vh>心得</vh></v>
+</v>
+<v t="leo.20190111042353.1"><vh>期中</vh>
+<v t="leo.20190111042353.2"><vh>心得</vh></v>
+</v>
+<v t="leo.20190111064559.1"><vh>總結</vh>
+<v t="leo.20190111064559.2"><vh>心得</vh></v>
+</v>
+<v t="leo.20190111064907.1"><vh>期末</vh>
+<v t="leo.20190111064907.2"><vh>心得</vh></v>
+</v>
+<v t="leo.20190111065150.1"><vh>總結2</vh>
+<v t="leo.20190111065150.2"><vh>心得</vh></v>
+</v>
+<v t="leo.20190111065402.1" a="E"><vh>心得</vh>
+<v t="leo.20190111065402.2"><vh>心得</vh></v>
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
@@ -417,5 +435,88 @@ https://classroom.github.com/a/fGqXU9kO 領取個人的期中作業
 
 
 </t>
+<t tx="leo.20190111041938.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111041938.2">##我學到了什麼
+
+
+</t>
+<t tx="leo.20190111042353.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111042353.2">##期中前
+
+學習到了如何建立屬於自己的網站，以及認識到新的繪圖軟體onshape，功能近似於之前學過的inventor及soilwork的綜合版，還有學到網站如何整理，讓別人清楚明白自己所做的東西，
+
+
+</t>
+<t tx="leo.20190111064559.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111064559.2">##總結
+
+1.學習如何使用onshape
+2.如何管理好自己的倉儲
+3.複習每個禮拜所學習的東西
+4.分配好時間才有效率
+</t>
+<t tx="leo.20190111064907.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111064907.2">##分組專題
+
+開始分配好組員，並且著手製作專題，分工合作共同來完成一組的專題，懂得分配好時間有效率地把它做完。</t>
+<t tx="leo.20190111065150.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111065150.2">##總結
+
+1.如何分配工作
+2.自主學習的重要性
+3.平時累積的重要性
+4.把握時間</t>
+<t tx="leo.20190111065402.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111065402.2">##心得
+
+這半學期即將結束了，對於這門課，我覺得受益很多，認識到很多以前從沒看過的軟體，以及面對不同的問題時我們該如何去應對，現在的東西也不斷在推陳出新，懂得利用現有的資源來好好的充實自己，是目前我覺得最需要做的事。</t>
 </tnodes>
 </leo_file>
