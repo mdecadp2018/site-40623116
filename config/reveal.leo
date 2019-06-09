@@ -476,7 +476,7 @@ make.start()
 </t>
 <t tx="leo.20190111064559.2">## 總結
 
-加入所有桿子後，程式必須做修改但還沒研究出來
+加入所有桿子後，程式必須做修改但還沒研究出來，程式是請教第三組，然後別組才來請教我的，對於python也懂了一點，但還是基本的而已，需要再多加研究。
 </t>
 <t tx="leo.20190609211307.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
