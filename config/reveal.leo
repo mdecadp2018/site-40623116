@@ -21,41 +21,38 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181028194055.1"><vh>w1</vh>
+<v t="leo.20181028194055.1"><vh>w10</vh>
 <v t="leo.20181028194055.2"><vh>心得</vh></v>
 </v>
-<v t="leo.20181108225139.1"><vh>w2</vh>
+<v t="leo.20181108225139.1"><vh>w11</vh>
 <v t="leo.20181108225139.2"><vh>心得</vh></v>
 </v>
-<v t="leo.20181108225141.1"><vh>w3</vh>
+<v t="leo.20181108225141.1"><vh>w12</vh>
 <v t="leo.20181108225141.2"><vh>心得</vh></v>
 </v>
-<v t="leo.20181108225143.1"><vh>w4</vh>
+<v t="leo.20181108225143.1"><vh>w13</vh>
 <v t="leo.20181108225143.2"><vh>心得</vh></v>
 </v>
-<v t="leo.20181108225145.1"><vh>w5</vh>
+<v t="leo.20181108225145.1"><vh>w14</vh>
 <v t="leo.20181108225145.2"><vh>心得</vh></v>
 </v>
-<v t="leo.20190111041938.1"><vh>期中前</vh>
+<v t="leo.20190111041938.1"><vh>w15</vh>
 <v t="leo.20190111041938.2"><vh>心得</vh></v>
 </v>
-<v t="leo.20190111042353.1"><vh>期中</vh>
+<v t="leo.20190111042353.1"><vh>w16</vh>
 <v t="leo.20190111042353.2"><vh>心得</vh></v>
 </v>
-<v t="leo.20190111064559.1"><vh>總結</vh>
+<v t="leo.20190111064559.1"><vh>w17</vh>
 <v t="leo.20190111064559.2"><vh>心得</vh></v>
 </v>
-<v t="leo.20190111064907.1"><vh>期末</vh>
-<v t="leo.20190111064907.2"><vh>心得</vh></v>
+<v t="leo.20190609211307.1"><vh>倉儲</vh>
+<v t="leo.20190609211307.2"><vh>心得</vh></v>
 </v>
-<v t="leo.20190111065150.1"><vh>總結2</vh>
-<v t="leo.20190111065150.2"><vh>心得</vh></v>
-</v>
-<v t="leo.20190111065402.1" a="E"><vh>心得</vh>
-<v t="leo.20190111065402.2"><vh>心得</vh></v>
+<v t="leo.20190609212306.1"><vh>評分</vh>
+<v t="leo.20190609212306.2"><vh>自評</vh></v>
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
@@ -157,15 +154,15 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 分組網際簡報40623116
+<t tx="leo.20180827201621.10">## 2019Fall 分組協同產品設計40623116
 
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
+Created by 40623116
 
-[2018 Fall 分組網誌](./../blog/index.html)
+
+
 
 
 </t>
@@ -368,15 +365,11 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181028194055.2">## week1
+<t tx="leo.20181028194055.2">## week10
 
 ### 虎科大機械設計工程系
 
-根據分組協同流程中學員須知準備隨身碟、耳機、麥克風與紙本筆記
-
-https://classroom.github.com/a/fGqXU9kO 領取個人的期中作業
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/fJ3z41g_c0I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+開始分配手足球的工作，以及學習程式(請教第三組)
 
 </t>
 <t tx="leo.20181108225139.1">&lt;section data-markdown&gt;
@@ -388,9 +381,12 @@ https://classroom.github.com/a/fGqXU9kO 領取個人的期中作業
 
 						
 </t>
-<t tx="leo.20181108225139.2">## week2
+<t tx="leo.20181108225139.2">## week11
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/PpABVLspYaY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+繪製簡易球檯
+
+&lt;img src="../images/手足球.png"  width="400px"&gt;
+
 
 </t>
 <t tx="leo.20181108225141.1">&lt;section data-markdown&gt;
@@ -402,9 +398,10 @@ https://classroom.github.com/a/fGqXU9kO 領取個人的期中作業
 
 						
 </t>
-<t tx="leo.20181108225141.2">## week3
+<t tx="leo.20181108225141.2">## week12
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/G4sMS_UY16k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+手足球雙人對打測試
+&lt;iframe width="560" height="315" src="https://youtu.be/Czmc5rETVuQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 <t tx="leo.20181108225143.1">&lt;section data-markdown&gt;
@@ -416,9 +413,10 @@ https://classroom.github.com/a/fGqXU9kO 領取個人的期中作業
 
 						
 </t>
-<t tx="leo.20181108225143.2">## week4
+<t tx="leo.20181108225143.2">## week13
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/1W1_QMEgrk4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+手足球單人對電腦
+&lt;iframe width="560" height="315" src="https://youtu.be/aXtKOC15TXI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20181108225145.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -429,9 +427,10 @@ https://classroom.github.com/a/fGqXU9kO 領取個人的期中作業
 
 						
 </t>
-<t tx="leo.20181108225145.2">## week5
+<t tx="leo.20181108225145.2">## week14
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/BgJLYg7ZFvc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+手足球電腦對電腦
+&lt;iframe width="560" height="315" src="https://youtu.be/aXtKOC15TXI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 
 </t>
@@ -444,9 +443,19 @@ https://classroom.github.com/a/fGqXU9kO 領取個人的期中作業
 
 						
 </t>
-<t tx="leo.20190111041938.2">##我學到了什麼
+<t tx="leo.20190111041938.2">## week15 
 
+程式修改簡短(雙人對打)
 
+&lt;iframe width="560" height="315" src="https://youtu.be/yKlaM3ONPdU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+程式修改簡短(單人對打電腦)
+
+&lt;iframe width="560" height="315" src="https://youtu.be/AE9rLeqkIlc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+程式修改簡短(電腦對打電腦)
+
+&lt;iframe width="560" height="315" src="https://youtu.be/L2WIItHtdpo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20190111042353.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -457,9 +466,10 @@ https://classroom.github.com/a/fGqXU9kO 領取個人的期中作業
 
 						
 </t>
-<t tx="leo.20190111042353.2">##期中前
+<t tx="leo.20190111042353.2">##week16
 
-學習到了如何建立屬於自己的網站，以及認識到新的繪圖軟體onshape，功能近似於之前學過的inventor及soilwork的綜合版，還有學到網站如何整理，讓別人清楚明白自己所做的東西，
+加入送球機構後的模擬
+&lt;iframe width="560" height="315" src="https://youtu.be/_fmiNbCI618" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 
 </t>
@@ -474,12 +484,9 @@ https://classroom.github.com/a/fGqXU9kO 領取個人的期中作業
 </t>
 <t tx="leo.20190111064559.2">##總結
 
-1.學習如何使用onshape
-2.如何管理好自己的倉儲
-3.複習每個禮拜所學習的東西
-4.分配好時間才有效率
+加入所有桿子後，程式必須做修改但還沒研究出來
 </t>
-<t tx="leo.20190111064907.1">&lt;section data-markdown&gt;
+<t tx="leo.20190609211307.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -488,10 +495,12 @@ https://classroom.github.com/a/fGqXU9kO 領取個人的期中作業
 
 						
 </t>
-<t tx="leo.20190111064907.2">##分組專題
+<t tx="leo.20190609211307.2">##總結
 
-開始分配好組員，並且著手製作專題，分工合作共同來完成一組的專題，懂得分配好時間有效率地把它做完。</t>
-<t tx="leo.20190111065150.1">&lt;section data-markdown&gt;
+倉儲推送紀錄
+
+[cd2019a-task1-2019cda_t1_g1](https://github.com/mdekmol/cd2019a-task1-2019cda_t1_g1/graphs/contributors)</t>
+<t tx="leo.20190609212306.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -500,23 +509,20 @@ https://classroom.github.com/a/fGqXU9kO 領取個人的期中作業
 
 						
 </t>
-<t tx="leo.20190111065150.2">##總結
+<t tx="leo.20190609212306.2">##自評
 
-1.如何分配工作
-2.自主學習的重要性
-3.平時累積的重要性
-4.把握時間</t>
-<t tx="leo.20190111065402.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
+學員出席(20%) 20分
 
+Github 倉儲管理(20%) 13分
 
-						
+Onshape 協同操作(20%) 12分
+
+V-rep 模擬(20%) 15分
+
+程式開發(20%) 10分
+
+總分:70分
+
 </t>
-<t tx="leo.20190111065402.2">##心得
-
-這半學期即將結束了，對於這門課，我覺得受益很多，認識到很多以前從沒看過的軟體，以及面對不同的問題時我們該如何去應對，現在的東西也不斷在推陳出新，懂得利用現有的資源來好好的充實自己，是目前我覺得最需要做的事。</t>
 </tnodes>
 </leo_file>
