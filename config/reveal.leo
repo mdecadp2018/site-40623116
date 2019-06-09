@@ -487,7 +487,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190609211307.2">##　倉儲推送紀錄
+<t tx="leo.20190609211307.2">## 倉儲推送紀錄
 
 [cd2019a-task1-2019cda_t1_g1](https://github.com/mdekmol/cd2019a-task1-2019cda_t1_g1/graphs/contributors)
 
