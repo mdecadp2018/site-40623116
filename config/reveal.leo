@@ -39,7 +39,7 @@
 <v t="leo.20181108225145.1" a="E"><vh>w14</vh>
 <v t="leo.20181108225145.2"><vh>心得</vh></v>
 </v>
-<v t="leo.20190111041938.1"><vh>w15</vh>
+<v t="leo.20190111041938.1" a="E"><vh>w15</vh>
 <v t="leo.20190609213433.1" a="E"><vh>第二列</vh>
 <v t="leo.20190609213433.2"><vh>雙人對打</vh></v>
 </v>
@@ -50,16 +50,16 @@
 <v t="leo.20190609213641.2"><vh>電腦對電腦</vh></v>
 </v>
 </v>
-<v t="leo.20190111042353.1"><vh>w16</vh>
+<v t="leo.20190111042353.1" a="E"><vh>w16</vh>
 <v t="leo.20190111042353.2"><vh>心得</vh></v>
 </v>
-<v t="leo.20190111064559.1"><vh>w17</vh>
+<v t="leo.20190111064559.1" a="E"><vh>w17</vh>
 <v t="leo.20190111064559.2"><vh>心得</vh></v>
 </v>
 <v t="leo.20190609211307.1" a="E"><vh>倉儲</vh>
 <v t="leo.20190609211307.2"><vh>心得</vh></v>
 </v>
-<v t="leo.20190609212306.1"><vh>評分</vh>
+<v t="leo.20190609212306.1" a="E"><vh>評分</vh>
 <v t="leo.20190609212306.2"><vh>自評</vh></v>
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
@@ -391,9 +391,9 @@ make.start()
 </t>
 <t tx="leo.20181108225139.2">## week11繪製簡易球檯
 
-### [onshape](https://cad.onshape.com/documents/2d4e6f40d5c6e87b037075c2/w/935f73e23815e2819ea12f5e/e/b85b0468a4fe08cefcb12774)
+[onshape](https://cad.onshape.com/documents/2d4e6f40d5c6e87b037075c2/w/935f73e23815e2819ea12f5e/e/b85b0468a4fe08cefcb12774)
 
-&lt;img src="../images/手足球.png"  width="400px"&gt;
+### &lt;img src="../images/手足球.png"  width="400px"&gt;
 
 
 
@@ -458,7 +458,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190111042353.2">##week16
+<t tx="leo.20190111042353.2">## week16
 
 加入送球機構後的模擬
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/_fmiNbCI618" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
@@ -474,7 +474,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190111064559.2">##總結
+<t tx="leo.20190111064559.2">## 總結
 
 加入所有桿子後，程式必須做修改但還沒研究出來
 </t>
@@ -487,11 +487,11 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190609211307.2">##總結
+<t tx="leo.20190609211307.2">##　倉儲推送紀錄
 
-倉儲推送紀錄
+[cd2019a-task1-2019cda_t1_g1](https://github.com/mdekmol/cd2019a-task1-2019cda_t1_g1/graphs/contributors)
 
-[cd2019a-task1-2019cda_t1_g1](https://github.com/mdekmol/cd2019a-task1-2019cda_t1_g1/graphs/contributors)</t>
+</t>
 <t tx="leo.20190609212306.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -501,7 +501,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190609212306.2">##自評
+<t tx="leo.20190609212306.2">## 自評
 
 學員出席(20%) 20分
 
@@ -521,7 +521,9 @@ V-rep 模擬(20%) 15分
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20190609213433.2">程式修改簡短(雙人對打)
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/yKlaM3ONPdU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
@@ -535,7 +537,9 @@ V-rep 模擬(20%) 15分
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20190609213639.2">程式修改簡短(單人對打電腦)
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/AE9rLeqkIlc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
@@ -547,7 +551,9 @@ V-rep 模擬(20%) 15分
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20190609213641.2">程式修改簡短(電腦對打電腦)
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/L2WIItHtdpo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
