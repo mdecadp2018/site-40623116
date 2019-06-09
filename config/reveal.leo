@@ -30,17 +30,25 @@
 <v t="leo.20181108225139.1"><vh>w11</vh>
 <v t="leo.20181108225139.2"><vh>心得</vh></v>
 </v>
-<v t="leo.20181108225141.1"><vh>w12</vh>
+<v t="leo.20181108225141.1" a="E"><vh>w12</vh>
 <v t="leo.20181108225141.2"><vh>心得</vh></v>
 </v>
-<v t="leo.20181108225143.1"><vh>w13</vh>
+<v t="leo.20181108225143.1" a="E"><vh>w13</vh>
 <v t="leo.20181108225143.2"><vh>心得</vh></v>
 </v>
-<v t="leo.20181108225145.1"><vh>w14</vh>
+<v t="leo.20181108225145.1" a="E"><vh>w14</vh>
 <v t="leo.20181108225145.2"><vh>心得</vh></v>
 </v>
 <v t="leo.20190111041938.1"><vh>w15</vh>
-<v t="leo.20190111041938.2"><vh>心得</vh></v>
+<v t="leo.20190609213433.1" a="E"><vh>第二列</vh>
+<v t="leo.20190609213433.2"><vh>雙人對打</vh></v>
+</v>
+<v t="leo.20190609213639.1" a="E"><vh>第二列</vh>
+<v t="leo.20190609213639.2"><vh>單人對電腦</vh></v>
+</v>
+<v t="leo.20190609213641.1" a="E"><vh>第二列</vh>
+<v t="leo.20190609213641.2"><vh>電腦對電腦</vh></v>
+</v>
 </v>
 <v t="leo.20190111042353.1"><vh>w16</vh>
 <v t="leo.20190111042353.2"><vh>心得</vh></v>
@@ -401,7 +409,7 @@ make.start()
 <t tx="leo.20181108225141.2">## week12
 
 手足球雙人對打測試
-&lt;iframe width="560" height="315" src="https://youtu.be/Czmc5rETVuQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Czmc5rETVuQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 <t tx="leo.20181108225143.1">&lt;section data-markdown&gt;
@@ -416,7 +424,7 @@ make.start()
 <t tx="leo.20181108225143.2">## week13
 
 手足球單人對電腦
-&lt;iframe width="560" height="315" src="https://youtu.be/aXtKOC15TXI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/aXtKOC15TXI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20181108225145.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -430,32 +438,15 @@ make.start()
 <t tx="leo.20181108225145.2">## week14
 
 手足球電腦對電腦
-&lt;iframe width="560" height="315" src="https://youtu.be/aXtKOC15TXI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ouVWM-XYCi4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 
 </t>
-<t tx="leo.20190111041938.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20190111041938.1">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;
 
-
 						
-</t>
-<t tx="leo.20190111041938.2">## week15 
-
-程式修改簡短(雙人對打)
-
-&lt;iframe width="560" height="315" src="https://youtu.be/yKlaM3ONPdU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-
-程式修改簡短(單人對打電腦)
-
-&lt;iframe width="560" height="315" src="https://youtu.be/AE9rLeqkIlc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-
-程式修改簡短(電腦對打電腦)
-
-&lt;iframe width="560" height="315" src="https://youtu.be/L2WIItHtdpo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20190111042353.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -469,7 +460,7 @@ make.start()
 <t tx="leo.20190111042353.2">##week16
 
 加入送球機構後的模擬
-&lt;iframe width="560" height="315" src="https://youtu.be/_fmiNbCI618" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/_fmiNbCI618" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 
 </t>
@@ -522,6 +513,43 @@ V-rep 模擬(20%) 15分
 程式開發(20%) 10分
 
 總分:70分
+
+</t>
+<t tx="leo.20190609213433.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20190609213433.2">程式修改簡短(雙人對打)
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/yKlaM3ONPdU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190609213639.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20190609213639.2">程式修改簡短(單人對打電腦)
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/AE9rLeqkIlc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+						
+</t>
+<t tx="leo.20190609213641.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20190609213641.2">程式修改簡短(電腦對打電腦)
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/L2WIItHtdpo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 </tnodes>
