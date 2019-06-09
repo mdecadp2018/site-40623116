@@ -415,7 +415,7 @@ make.start()
 
 手足球雙人對打測試
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Czmc5rETVuQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-參考自第三組及網路上的python ev3的寫法
+# 參考自第三組及網路上的python ev3的寫法
 </t>
 <t tx="leo.20181108225143.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -430,7 +430,7 @@ make.start()
 
 手足球單人對電腦
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/aXtKOC15TXI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-回擊程式是讓桿子抓取球的位置來寫的</t>
+# 回擊程式是讓桿子抓取球的位置來寫的</t>
 <t tx="leo.20181108225145.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -444,7 +444,7 @@ make.start()
 
 手足球電腦對電腦
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ouVWM-XYCi4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-電腦回擊有點延遲必須做修改
+# 電腦回擊有點延遲必須做修改
 
 </t>
 <t tx="leo.20190111041938.1">&lt;section&gt;
