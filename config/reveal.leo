@@ -444,7 +444,7 @@ make.start()
 
 手足球電腦對電腦
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ouVWM-XYCi4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-電腦回擊有點延遲必須做修改
+#### 電腦回擊有點延遲必須做修改
 
 </t>
 <t tx="leo.20190111041938.1">&lt;section&gt;
