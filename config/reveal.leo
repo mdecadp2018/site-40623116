@@ -21,7 +21,7 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20181028194055.1" a="E"><vh>w10</vh>
@@ -166,8 +166,11 @@ vertical: body pane on the botton</t>
 
 ### 虎科大機械設計工程系
 
-&lt;small&gt;
-Created by 40623116
+[小組網站](https://mdekmol.github.io/cd2019a-task1-2019cda_t1_g1/content/index.html)
+[小組倉儲](https://github.com/mdekmol/cd2019a-task1-2019cda_t1_g1)
+[個人網站](https://mdecadp2018.github.io/site-40623116/content/%E5%8D%94%E5%90%8C%E7%94%A2%E5%93%81%E8%A8%AD%E8%A8%88.html)
+[個人投影片](https://mdecadp2018.github.io/site-40623116/reveal/index.html#/)
+
 
 
 
