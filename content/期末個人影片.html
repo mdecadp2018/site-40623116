@@ -68,4 +68,62 @@ $(function(){
 </ul>
 </confmenu></header>
 <div class='container'><nav><ul id='css3menu1' class='topmenu'><li><a href='協同產品設計.html'>協同產品設計</a><ul><li><a href='個人期中影片.html'>個人期中影片</a><li><a href='bubbleRob操作影片.html'>bubbleRob操作影片</a><li><a href='手足球雙人對打.html'>手足球雙人對打</a><li><a href='手足球單人對電腦.html'>手足球單人對電腦</a><li><a href='手足球電腦對電腦.html'>手足球電腦對電腦</a><li><a href='期末個人影片.html'>期末個人影片</a></li></ul><li><a href='site-40623116.html'>site-40623116</a><ul><li><a href='簡介.html'>簡介</a><li><a href='git 語法.html'>git 語法</a><li><a href='onshape單字.html'>onshape單字</a><ul><li><a href='h1.html'>h1</a><li><a href='h2.html'>h2</a><li><a href='h3.html'>h3</a></li></ul><li><a href='onshape 基本操作.html'>onshape 基本操作</a><ul><li><a href='week1 homework.html'>week1 homework</a><li><a href='week2 homework.html'>week2 homework</a><li><a href='week3 homework.html'>week3 homework</a><li><a href='week4 homework.html'>week4 homework</a><li><a href='week5 homework.html'>week5 homework</a></li></ul><li><a href='上課筆記.html'>上課筆記</a><li><a href='課程影片.html'>課程影片</a><ul><li><a href='week-2.html'>week-2</a><li><a href='week-3.html'>week-3</a><li><a href='week-4.html'>week-4</a><li><a href='week-5.html'>week-5</a><li><a href='week-6.html'>week-6</a><li><a href='week-7.html'>week-7</a></li></ul></nav><section>手足球電腦對電腦 << <a href='手足球電腦對電腦.html'>Previous</a> <a href='site-40623116.html'>Next</a> >> site-40623116<br /><h1>期末個人影片</h1>
-<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/9laCJmrPZWk" width="560"></iframe></p><br />手足球電腦對電腦 << <a href='手足球電腦對電腦.html'>Previous</a> <a href='site-40623116.html'>Next</a> >> site-40623116</section></div></body></html>
+<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/9laCJmrPZWk" width="560"></iframe></p>
+<p>期末小考彈珠台</p>
+<p><span>期末小考-彈珠台-導入vrep設定</span></p>
+<p><span><iframe allowfullscreen="allowfullscreen" data-mce-fragment="1" height="314" src="https://www.youtube.com/embed/_Z57IcOLmzQ" width="560"></iframe></span></p>
+<p>期末小考-彈珠台-程式模擬</p>
+<p><iframe allowfullscreen="allowfullscreen" data-mce-fragment="1" height="314" src="https://www.youtube.com/embed/BdyLUUTFoqA" width="560"></iframe>圖檔:<a href="https://cad.onshape.com/documents/89f4b4cb14ab5c916682af8e/w/14a82f44318f4b0675ac6722/e/36957a1b33c3f4e8ea8f9887">onshape</a></p>
+<p>ttt檔:<a href="https://github.com/mdekmol/cd2019a-task1-2019cda_t1_g1/blob/gh-pages/Vrep/%E5%BD%88%E7%8F%A0%E6%AA%AF0622-40623116.ttt">ttt-40623116</a></p>
+<p>程式碼</p>
+<pre class="brush:py;auto-links:false;toolbar:false" contenteditable="false">import vrep
+import keyboard
+import time
+import sys, math     
+# child threaded script: 
+# 內建使用 port 19997 若要加入其他 port, 在  serve 端程式納入
+#simExtRemoteApiStart(19999)
+   
+vrep.simxFinish(-1)
+ 
+ 
+clientID = vrep.simxStart('127.0.0.1', 19997, True, True, 5000, 5)
+KickBallV = 360
+R_KickBallVel = (math.pi/180)*KickBallV
+B_KickBallVel = -(math.pi/180)*KickBallV
+if clientID!= -1:
+    print("Connected to remote server")
+else:
+    print('Connection not successful')
+    sys.exit('Could not connect')
+     
+errorCode,Sphere_handle=vrep.simxGetObjectHandle(clientID,'Sphere',vrep.simx_opmode_oneshot_wait)
+errorCode,P1_handle=vrep.simxGetObjectHandle(clientID,'P1',vrep.simx_opmode_oneshot_wait)
+errorCode,R1_handle=vrep.simxGetObjectHandle(clientID,'R1',vrep.simx_opmode_oneshot_wait)
+errorCode,R2_handle=vrep.simxGetObjectHandle(clientID,'R2',vrep.simx_opmode_oneshot_wait)
+ 
+ 
+ 
+def speed(handle,speed):
+    errorCode = vrep.simxSetJointTargetVelocity(clientID,handle,speed,vrep.simx_opmode_oneshot_wait)
+ 
+vrep.simxStartSimulation(clientID,vrep.simx_opmode_oneshot_wait)
+while True:
+    try:
+            if keyboard.is_pressed('a'): 
+                speed(R1_handle,R_KickBallVel)
+            else:
+                speed(R1_handle,B_KickBallVel)
+            if keyboard.is_pressed('l'):  
+                speed(R2_handle,B_KickBallVel)
+            else:
+                speed(R2_handle,R_KickBallVel)
+            if keyboard.is_pressed('up'):
+                speed(P1_handle,5)
+            else:
+                speed(P1_handle,-100)
+    except:
+            break</pre>
+<div>
+<div class="syntaxhighlighter py" id="highlighter_477690"></div>
+</div><br />手足球電腦對電腦 << <a href='手足球電腦對電腦.html'>Previous</a> <a href='site-40623116.html'>Next</a> >> site-40623116</section></div></body></html>

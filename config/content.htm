@@ -218,7 +218,65 @@ def getballposition():
 getballposition()
 </pre>
 <h2>期末個人影片</h2>
-<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/9laCJmrPZWk" width="560"></iframe></p><h1>site-40623116</h1>
+<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/9laCJmrPZWk" width="560"></iframe></p>
+<p>期末小考彈珠台</p>
+<p><span>期末小考-彈珠台-導入vrep設定</span></p>
+<p><span><iframe allowfullscreen="allowfullscreen" data-mce-fragment="1" height="314" src="https://www.youtube.com/embed/_Z57IcOLmzQ" width="560"></iframe></span></p>
+<p>期末小考-彈珠台-程式模擬</p>
+<p><iframe allowfullscreen="allowfullscreen" data-mce-fragment="1" height="314" src="https://www.youtube.com/embed/BdyLUUTFoqA" width="560"></iframe>圖檔:<a href="https://cad.onshape.com/documents/89f4b4cb14ab5c916682af8e/w/14a82f44318f4b0675ac6722/e/36957a1b33c3f4e8ea8f9887">onshape</a></p>
+<p>ttt檔:<a href="https://github.com/mdekmol/cd2019a-task1-2019cda_t1_g1/blob/gh-pages/Vrep/%E5%BD%88%E7%8F%A0%E6%AA%AF0622-40623116.ttt">ttt-40623116</a></p>
+<p>程式碼</p>
+<pre class="brush:py;auto-links:false;toolbar:false" contenteditable="false">import vrep
+import keyboard
+import time
+import sys, math     
+# child threaded script: 
+# 內建使用 port 19997 若要加入其他 port, 在  serve 端程式納入
+#simExtRemoteApiStart(19999)
+   
+vrep.simxFinish(-1)
+ 
+ 
+clientID = vrep.simxStart('127.0.0.1', 19997, True, True, 5000, 5)
+KickBallV = 360
+R_KickBallVel = (math.pi/180)*KickBallV
+B_KickBallVel = -(math.pi/180)*KickBallV
+if clientID!= -1:
+    print("Connected to remote server")
+else:
+    print('Connection not successful')
+    sys.exit('Could not connect')
+     
+errorCode,Sphere_handle=vrep.simxGetObjectHandle(clientID,'Sphere',vrep.simx_opmode_oneshot_wait)
+errorCode,P1_handle=vrep.simxGetObjectHandle(clientID,'P1',vrep.simx_opmode_oneshot_wait)
+errorCode,R1_handle=vrep.simxGetObjectHandle(clientID,'R1',vrep.simx_opmode_oneshot_wait)
+errorCode,R2_handle=vrep.simxGetObjectHandle(clientID,'R2',vrep.simx_opmode_oneshot_wait)
+ 
+ 
+ 
+def speed(handle,speed):
+    errorCode = vrep.simxSetJointTargetVelocity(clientID,handle,speed,vrep.simx_opmode_oneshot_wait)
+ 
+vrep.simxStartSimulation(clientID,vrep.simx_opmode_oneshot_wait)
+while True:
+    try:
+            if keyboard.is_pressed('a'): 
+                speed(R1_handle,R_KickBallVel)
+            else:
+                speed(R1_handle,B_KickBallVel)
+            if keyboard.is_pressed('l'):  
+                speed(R2_handle,B_KickBallVel)
+            else:
+                speed(R2_handle,R_KickBallVel)
+            if keyboard.is_pressed('up'):
+                speed(P1_handle,5)
+            else:
+                speed(P1_handle,-100)
+    except:
+            break</pre>
+<div>
+<div class="syntaxhighlighter py" id="highlighter_477690"></div>
+</div><h1>site-40623116</h1>
 <h2>簡介</h2>
 <p>2018 Fall 計算機程式與電腦輔助設計實習課程分組網站</p>
 <h2>git 語法</h2>
